@@ -1,0 +1,49 @@
+{
+  "safe": "0xfaEF7338b7490b9E272d80A1a39f4657cAf2b97d",
+  "to": "0x30770d7E3e71112d7A6b7259542D1f680a70e315",
+  "value": "0",
+  "data": "0x5a26fbf40000000000000000000000000000000000000000000000000000000067bceac0",
+  "operation": 0,
+  "gasToken": "0x0000000000000000000000000000000000000000",
+  "safeTxGas": 0,
+  "baseGas": 0,
+  "gasPrice": "0",
+  "refundReceiver": "0x0000000000000000000000000000000000000000",
+  "nonce": 24,
+  "executionDate": "2025-03-13T15:03:36Z",
+  "submissionDate": "2025-03-13T14:57:59.485612Z",
+  "modified": "2025-03-13T15:03:36Z",
+  "blockNumber": 3484111,
+  "transactionHash": "0x00d9d890673dc0f1d955375d1d74bb1d909bd06188bae775f10d9a16a15f78d6",
+  "safeTxHash": "0xd43976e145bc09513aa31fd31a7f759e5351af546a88895f3090486d7e92962a",
+  "proposer": "0xC1a501f5627229A7fF66F62a9e47A6CB377543Cf",
+  "executor": "0x6c64B7DD01aB73ABEaf8D79f906C9C608f2D4033",
+  "isExecuted": true,
+  "isSuccessful": true,
+  "ethGasPrice": "2524204",
+  "maxFeePerGas": "3895328",
+  "maxPriorityFeePerGas": "1000000",
+  "gasUsed": 78266,
+  "fee": "197559350264",
+  "origin": "{}",
+  "dataDecoded": null,
+  "confirmationsRequired": 2,
+  "confirmations": [
+    {
+      "owner": "0xC1a501f5627229A7fF66F62a9e47A6CB377543Cf",
+      "submissionDate": "2025-03-13T14:57:59.535992Z",
+      "transactionHash": null,
+      "signature": "0xb2244b13045249c8fa0706835862962863cf1df34ca7521033670cbec95e2b4e3cd167b95b52b68659afb1f8b36df9b795575e27be826d62630c5be9d015a9e81c",
+      "signatureType": "EOA"
+    },
+    {
+      "owner": "0x6c64B7DD01aB73ABEaf8D79f906C9C608f2D4033",
+      "submissionDate": "2025-03-13T15:03:36Z",
+      "transactionHash": null,
+      "signature": "0x0000000000000000000000006c64b7dd01ab73abeaf8d79f906c9c608f2d4033000000000000000000000000000000000000000000000000000000000000000001",
+      "signatureType": "APPROVED_HASH"
+    }
+  ],
+  "trusted": true,
+  "signatures": "0x0000000000000000000000006c64b7dd01ab73abeaf8d79f906c9c608f2d4033000000000000000000000000000000000000000000000000000000000000000001b2244b13045249c8fa0706835862962863cf1df34ca7521033670cbec95e2b4e3cd167b95b52b68659afb1f8b36df9b795575e27be826d62630c5be9d015a9e81c"
+}
