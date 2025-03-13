@@ -1,6 +1,6 @@
 {
   "id": "testnet",
-  "deployedVersion": "1.1.1",
+  "deployedVersion": "1.2.0",
   "contracts": {
     "static": {
       "PauserRegistry_Impl": {
@@ -66,20 +66,16 @@
         }
       },
       "EigenPod_Impl": {
-        "address": "0x68bd1e75E9863C9066B46B8a44E953F918466D37",
+        "address": "0x3c3fd29201A0e04B70A0bDFD8C90cb038473254b",
         "contract": "EigenPod_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x4e8462cd73e896d9ce3f752f78e237f53a8f2c53dcd18e30d693c4d436a8bb0f",
+        "deployedBytecodeHash": "0x45227a460aa262256e3313f5b1b96dc64cbcba60bda5209ec7c533a6ad58ea34",
         "lastUpdatedIn": {
-          "name": "2024-12-19-08-51-v1.0.2-slashing-consolidated",
+          "name": "2025-02-24-14-18-v1.2.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
-          {
-            "by": "jbrower95@gmail.com",
-            "valid": true
-          },
           {
             "by": "michaelsun97@gmail.com",
             "valid": true
@@ -97,20 +93,16 @@
         }
       },
       "EigenPodManager_Impl": {
-        "address": "0x35b7743633AcdaEB18a4894469fcdBF23E13f304",
+        "address": "0x47225a72D151905ccd08B7E5Db7f35B644b43af8",
         "contract": "EigenPodManager_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0xd9a3153dae8ddf11ce12a9515dcc63c57dab45a2a4063d9f6f38991f30a55d82",
+        "deployedBytecodeHash": "0x705adef4f269c0f93d3ea41549fafe036cd9c56933891c0d898814e1892ee1cb",
         "lastUpdatedIn": {
-          "name": "2024-12-19-08-51-v1.0.2-slashing-consolidated",
+          "name": "2025-02-24-14-18-v1.2.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
-          {
-            "by": "jbrower95@gmail.com",
-            "valid": true
-          },
           {
             "by": "michaelsun97@gmail.com",
             "valid": true
@@ -575,6 +567,6 @@
       }
     ]
   },
-  "latestDeployedCommit": "1dce4ed53df3dfcba5878c9b7516006dcf330858",
+  "latestDeployedCommit": "e30d0ca9dc46fc4af79b555e3fcc3d700b209bad",
   "chainId": 17000
 }
