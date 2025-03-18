@@ -1,0 +1,136 @@
+{
+  "contracts": [
+    {
+      "address": "0x97980358AAc273b4a7D8030a6486C27a177493E7",
+      "contract": "PermissionController_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xaa505aa1b4fd8fa24987a81eb40b414454fe2f9f65ba8bf4319cf02c6a05f5aa",
+      "lastUpdatedIn": {
+        "name": "2025-03-18-14-25-v1.4.0-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x0f657737D0298625eea440b1B831AfefBc228B57",
+      "contract": "AllocationManager_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x54663ced897c01de583dfe48962077bc7a51673fe6c230afe69d70c6562439c3",
+      "lastUpdatedIn": {
+        "name": "2025-03-18-14-25-v1.4.0-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x49eD64729654d4cDA020023bFb04539F74571b17",
+      "contract": "AVSDirectory_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x8b265a4480e974b83f07966be58f6a9fec3bd7ae34444976854e606bba19ca73",
+      "lastUpdatedIn": {
+        "name": "2025-03-18-14-25-v1.4.0-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0xB2A0f489c0ee48bb3Ea8D2bafE5956Def9cFD97d",
+      "contract": "DelegationManager_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x261aaeee306680ee947bff19963638208cefe6013f0a527363c45f663ac4eb42",
+      "lastUpdatedIn": {
+        "name": "2025-03-18-14-25-v1.4.0-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x54CD76b00b790A6Ab7fc7423707C4d388EEdAbB2",
+      "contract": "RewardsCoordinator_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xba56a7520f189ef2a1d0c8f29e5575ccec26306eed0174a46f44e65a8875d57d",
+      "lastUpdatedIn": {
+        "name": "2025-03-18-14-25-v1.4.0-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x947F46a83CAbE43146027585966A367a938861eC",
+      "contract": "StrategyManager_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xa1da79adc995a8773f427c77d36a5e83166acee177f43623fc02d5943022edbb",
+      "lastUpdatedIn": {
+        "name": "2025-03-18-14-25-v1.4.0-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0xF3c6584C8515E5eddAF31959c0de8B42BB87154c",
+      "contract": "EigenPodManager_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x1720c8b1612e2d6cc33e79cbe3b2d88c6056aa71dcb73c655699383379de327d",
+      "lastUpdatedIn": {
+        "name": "2025-03-18-14-25-v1.4.0-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0xC213369BC878E93EdFD55C00f84DE08A5087a2A6",
+      "contract": "EigenPod_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x698f24c19646d3076f57d886f1bbc05b8198c2fc9f03bf2c385387a2372a0c15",
+      "lastUpdatedIn": {
+        "name": "2025-03-18-14-25-v1.4.0-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x42F54c751956E68B1a5a0d1723CaF10dEFA78A90",
+      "contract": "StrategyBaseTVLLimits_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xcda136ff4ed044f7160a2cd305980d834824f1bbf57ce29eda6c421eda084af3",
+      "lastUpdatedIn": {
+        "name": "2025-03-18-14-25-v1.4.0-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x56D15F7f4E0bc6d99e51a30E1E2F79719632AC33",
+      "contract": "EigenStrategy_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xc46d07c4c493b6680ca98d303f1850f694e92e50747e998cf2bc19f41a7d427b",
+      "lastUpdatedIn": {
+        "name": "2025-03-18-14-25-v1.4.0-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x1Db7119e1596F8b168C23C8Ff44353AAda6E79eb",
+      "contract": "StrategyFactory_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xaa753847be774b02d90ba7fceb4ca59ef6e757c220c9f0909fe7a91ba49bc533",
+      "lastUpdatedIn": {
+        "name": "2025-03-18-14-25-v1.4.0-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x0C4d64dE31140aF2276a7c4D05e7dD7650413FDC",
+      "contract": "StrategyBase_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x33fbb165b28cdc95bb05fa326a336358545fe9eaf9b18fd7d8ed6f2f8fcda5e6",
+      "lastUpdatedIn": {
+        "name": "2025-03-18-14-25-v1.4.0-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    }
+  ]
+}
