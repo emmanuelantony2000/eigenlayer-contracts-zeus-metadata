@@ -1,6 +1,6 @@
 {
   "id": "preprod",
-  "deployedVersion": "1.2.0",
+  "deployedVersion": "1.4.0",
   "contracts": {
     "static": {
       "PauserRegistry_Impl": {
@@ -43,18 +43,30 @@
         }
       },
       "AVSDirectory_Impl": {
-        "address": "0x8b3C04F18FdFD5D3eB86A1aD108f13E074fBFc30",
+        "address": "0x49eD64729654d4cDA020023bFb04539F74571b17",
         "contract": "AVSDirectory_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x1f9c225e77dff3e02f5cf9ebf09cb2953c91365659e435f3c498f64e8bcc6a80",
+        "deployedBytecodeHash": "0x8b265a4480e974b83f07966be58f6a9fec3bd7ae34444976854e606bba19ca73",
         "lastUpdatedIn": {
-          "name": "2025-01-03-17-06-v1.0.3-slashing",
+          "name": "2025-03-18-14-25-v1.4.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
           {
-            "by": "96172957+0xClandestine@users.noreply.github.com",
+            "by": "michaelsun97@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
             "valid": true
           }
         ]
@@ -70,18 +82,26 @@
         }
       },
       "EigenPod_Impl": {
-        "address": "0x473b5943AF507A5fDb403C67B2971E5724B64938",
+        "address": "0xC213369BC878E93EdFD55C00f84DE08A5087a2A6",
         "contract": "EigenPod_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x45227a460aa262256e3313f5b1b96dc64cbcba60bda5209ec7c533a6ad58ea34",
+        "deployedBytecodeHash": "0x698f24c19646d3076f57d886f1bbc05b8198c2fc9f03bf2c385387a2372a0c15",
         "lastUpdatedIn": {
-          "name": "2025-02-24-13-48-v1.2.0-slashing",
+          "name": "2025-03-18-14-25-v1.4.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
           {
             "by": "michaelsun97@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
             "valid": true
           },
           {
@@ -101,18 +121,26 @@
         }
       },
       "EigenPodManager_Impl": {
-        "address": "0x0696114A2D169D68849B904a00d7aDD90d31Ee24",
+        "address": "0xF3c6584C8515E5eddAF31959c0de8B42BB87154c",
         "contract": "EigenPodManager_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x705adef4f269c0f93d3ea41549fafe036cd9c56933891c0d898814e1892ee1cb",
+        "deployedBytecodeHash": "0x1720c8b1612e2d6cc33e79cbe3b2d88c6056aa71dcb73c655699383379de327d",
         "lastUpdatedIn": {
-          "name": "2025-02-24-13-48-v1.2.0-slashing",
+          "name": "2025-03-18-14-25-v1.4.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
           {
             "by": "michaelsun97@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
             "valid": true
           },
           {
@@ -132,18 +160,30 @@
         }
       },
       "DelegationManager_Impl": {
-        "address": "0xC49B3c5fb6666BcA0b480681F3abB7a6D135b3Ce",
+        "address": "0xB2A0f489c0ee48bb3Ea8D2bafE5956Def9cFD97d",
         "contract": "DelegationManager_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0xc88460fc758dde800113cbfdb061d765d2cf12e16dfab6f9c39b69a6c0b99841",
+        "deployedBytecodeHash": "0x261aaeee306680ee947bff19963638208cefe6013f0a527363c45f663ac4eb42",
         "lastUpdatedIn": {
-          "name": "2025-01-03-17-06-v1.0.3-slashing",
+          "name": "2025-03-18-14-25-v1.4.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
           {
-            "by": "96172957+0xClandestine@users.noreply.github.com",
+            "by": "michaelsun97@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
             "valid": true
           }
         ]
@@ -159,23 +199,30 @@
         }
       },
       "RewardsCoordinator_Impl": {
-        "address": "0x744750B67EaF5D4DaAe4247E0f274cd7575166D8",
+        "address": "0x54CD76b00b790A6Ab7fc7423707C4d388EEdAbB2",
         "contract": "RewardsCoordinator_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0xc85fe13fbcf1bb5dd9beabeae67f411edda8c9bae54443d2b275419e9a3531d1",
+        "deployedBytecodeHash": "0xba56a7520f189ef2a1d0c8f29e5575ccec26306eed0174a46f44e65a8875d57d",
         "lastUpdatedIn": {
-          "name": "2025-02-05-14-47-v1.1.0-slashing",
+          "name": "2025-03-18-14-25-v1.4.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
           {
-            "by": "40046473+ypatil12@users.noreply.github.com",
-            "valid": false,
-            "expectedBytecodeHash": "0x4c57d1aa24e1672a98ca25119b722a762c748960cb17b18643bc307b87b81ba9"
+            "by": "michaelsun97@gmail.com",
+            "valid": true
           },
           {
-            "by": "jbrower95@gmail.com",
+            "by": "rajathalex@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
             "valid": true
           }
         ]
@@ -191,26 +238,26 @@
         }
       },
       "EigenStrategy_Impl": {
-        "address": "0xdB01e5178E4745346B230fdF2d6Da2F483a71EA4",
+        "address": "0x56D15F7f4E0bc6d99e51a30E1E2F79719632AC33",
         "contract": "EigenStrategy_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0xdb19cefc211c27360a24cfb4087d277f5b3b4b8d943e1d1c3e9038439f0862b5",
+        "deployedBytecodeHash": "0xc46d07c4c493b6680ca98d303f1850f694e92e50747e998cf2bc19f41a7d427b",
         "lastUpdatedIn": {
-          "name": "2024-12-13-15-41-v1.0.0-slashing",
+          "name": "2025-03-18-14-25-v1.4.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
           {
-            "by": "pragma-services@proton.me",
+            "by": "michaelsun97@gmail.com",
             "valid": true
           },
           {
-            "by": "jbrower95@gmail.com",
+            "by": "rajathalex@gmail.com",
             "valid": true
           },
           {
-            "by": "nadirakhtar123@gmail.com",
+            "by": "rajathalex@gmail.com",
             "valid": true
           },
           {
@@ -270,26 +317,26 @@
         }
       },
       "StrategyBase_Impl": {
-        "address": "0x3Dc582A90b920AA6aa0204e0517d6767C9C8c268",
+        "address": "0x0C4d64dE31140aF2276a7c4D05e7dD7650413FDC",
         "contract": "StrategyBase_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x5ca521dcde182fc67132df2b9a17b0478a0a5088f4b7fdc87a5599fe13fe6380",
+        "deployedBytecodeHash": "0x33fbb165b28cdc95bb05fa326a336358545fe9eaf9b18fd7d8ed6f2f8fcda5e6",
         "lastUpdatedIn": {
-          "name": "2024-12-13-15-41-v1.0.0-slashing",
+          "name": "2025-03-18-14-25-v1.4.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
           {
-            "by": "pragma-services@proton.me",
+            "by": "michaelsun97@gmail.com",
             "valid": true
           },
           {
-            "by": "jbrower95@gmail.com",
+            "by": "rajathalex@gmail.com",
             "valid": true
           },
           {
-            "by": "nadirakhtar123@gmail.com",
+            "by": "rajathalex@gmail.com",
             "valid": true
           },
           {
@@ -309,18 +356,30 @@
         }
       },
       "StrategyManager_Impl": {
-        "address": "0xB23E3635Ea81Ffb93170d02cA555f48C559B3370",
+        "address": "0x947F46a83CAbE43146027585966A367a938861eC",
         "contract": "StrategyManager_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x0012e17b7c3c30695cada65e678c7a2a28a3302e430acc92dfb580e1b1f98095",
+        "deployedBytecodeHash": "0xa1da79adc995a8773f427c77d36a5e83166acee177f43623fc02d5943022edbb",
         "lastUpdatedIn": {
-          "name": "2025-01-03-17-06-v1.0.3-slashing",
+          "name": "2025-03-18-14-25-v1.4.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
           {
-            "by": "96172957+0xClandestine@users.noreply.github.com",
+            "by": "michaelsun97@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
             "valid": true
           }
         ]
@@ -336,26 +395,26 @@
         }
       },
       "StrategyFactory_Impl": {
-        "address": "0x203654Ea1e39d00983A9cE0457B2d2efC188fC40",
+        "address": "0x1Db7119e1596F8b168C23C8Ff44353AAda6E79eb",
         "contract": "StrategyFactory_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x9487de8ea472aa453802a8ac2e28b95489868b1709d7042710c193183886a061",
+        "deployedBytecodeHash": "0xaa753847be774b02d90ba7fceb4ca59ef6e757c220c9f0909fe7a91ba49bc533",
         "lastUpdatedIn": {
-          "name": "2024-12-13-15-41-v1.0.0-slashing",
+          "name": "2025-03-18-14-25-v1.4.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
           {
-            "by": "pragma-services@proton.me",
+            "by": "michaelsun97@gmail.com",
             "valid": true
           },
           {
-            "by": "jbrower95@gmail.com",
+            "by": "rajathalex@gmail.com",
             "valid": true
           },
           {
-            "by": "nadirakhtar123@gmail.com",
+            "by": "rajathalex@gmail.com",
             "valid": true
           },
           {
@@ -365,26 +424,26 @@
         ]
       },
       "StrategyBaseTVLLimits_Impl": {
-        "address": "0x98bD5748dc964e85400B3A5D0152c444201C577a",
+        "address": "0x42F54c751956E68B1a5a0d1723CaF10dEFA78A90",
         "contract": "StrategyBaseTVLLimits_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x721d61446e034814d1bddf20b9a08aa66aeb93a5e1124ffc6466861ed513d3ce",
+        "deployedBytecodeHash": "0xcda136ff4ed044f7160a2cd305980d834824f1bbf57ce29eda6c421eda084af3",
         "lastUpdatedIn": {
-          "name": "2024-12-13-15-41-v1.0.0-slashing",
+          "name": "2025-03-18-14-25-v1.4.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
           {
-            "by": "pragma-services@proton.me",
+            "by": "michaelsun97@gmail.com",
             "valid": true
           },
           {
-            "by": "jbrower95@gmail.com",
+            "by": "rajathalex@gmail.com",
             "valid": true
           },
           {
-            "by": "nadirakhtar123@gmail.com",
+            "by": "rajathalex@gmail.com",
             "valid": true
           },
           {
@@ -394,26 +453,26 @@
         ]
       },
       "PermissionController_Impl": {
-        "address": "0x259597c0AEc3c9978D24e892225f2F4Ac142d885",
+        "address": "0x97980358AAc273b4a7D8030a6486C27a177493E7",
         "contract": "PermissionController_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0xdba32bd0c2d5d886226016d472fc477b5eb3626b0e125b94922277c64ecac486",
+        "deployedBytecodeHash": "0xaa505aa1b4fd8fa24987a81eb40b414454fe2f9f65ba8bf4319cf02c6a05f5aa",
         "lastUpdatedIn": {
-          "name": "2024-12-13-15-41-v1.0.0-slashing",
+          "name": "2025-03-18-14-25-v1.4.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
           {
-            "by": "pragma-services@proton.me",
+            "by": "michaelsun97@gmail.com",
             "valid": true
           },
           {
-            "by": "jbrower95@gmail.com",
+            "by": "rajathalex@gmail.com",
             "valid": true
           },
           {
-            "by": "nadirakhtar123@gmail.com",
+            "by": "rajathalex@gmail.com",
             "valid": true
           },
           {
@@ -452,16 +511,28 @@
         ]
       },
       "AllocationManager_Impl": {
-        "address": "0xD46dc0f4702575ba60FE7B828B033337E72320dE",
+        "address": "0x0f657737D0298625eea440b1B831AfefBc228B57",
         "contract": "AllocationManager_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0xf16bfb109a2cf43206b1d49e7f471e91f51fb3b16ed07e2f12ca0bad2f53b6c5",
+        "deployedBytecodeHash": "0x54663ced897c01de583dfe48962077bc7a51673fe6c230afe69d70c6562439c3",
         "lastUpdatedIn": {
-          "name": "2025-02-18-15-36-v1.1.1-slashing",
+          "name": "2025-03-18-14-25-v1.4.0-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
         },
         "validations": [
+          {
+            "by": "michaelsun97@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
+            "valid": true
+          },
+          {
+            "by": "rajathalex@gmail.com",
+            "valid": true
+          },
           {
             "by": "rajathalex@gmail.com",
             "valid": true
@@ -633,6 +704,6 @@
       }
     ]
   },
-  "latestDeployedCommit": "e30d0ca9dc46fc4af79b555e3fcc3d700b209bad",
+  "latestDeployedCommit": "545cc6b7dc17409373048ae582886eb5c77b5c36",
   "chainId": 17000
 }
