@@ -9,7 +9,13 @@
         "name": "2025-03-19-13-43-v1.4.0-slashing",
         "phase": "eoa_wait_confirm",
         "segment": 0
-      }
+      },
+      "validations": [
+        {
+          "by": "michaelsun97@gmail.com",
+          "valid": true
+        }
+      ]
     },
     {
       "address": "0xE403b8D7Ec404fD814bf0AcaCF228f0B1022ACeB",
@@ -20,7 +26,13 @@
         "name": "2025-03-19-13-43-v1.4.0-slashing",
         "phase": "eoa_wait_confirm",
         "segment": 0
-      }
+      },
+      "validations": [
+        {
+          "by": "michaelsun97@gmail.com",
+          "valid": true
+        }
+      ]
     },
     {
       "address": "0x331e3Bd9cf69562f6F9ade72BD3D9f271f1B2506",
@@ -31,7 +43,13 @@
         "name": "2025-03-19-13-43-v1.4.0-slashing",
         "phase": "eoa_wait_confirm",
         "segment": 0
-      }
+      },
+      "validations": [
+        {
+          "by": "michaelsun97@gmail.com",
+          "valid": true
+        }
+      ]
     },
     {
       "address": "0xeD28975331dfeE950899AC38e4Ba91415Ace7e0a",
@@ -42,7 +60,13 @@
         "name": "2025-03-19-13-43-v1.4.0-slashing",
         "phase": "eoa_wait_confirm",
         "segment": 0
-      }
+      },
+      "validations": [
+        {
+          "by": "michaelsun97@gmail.com",
+          "valid": true
+        }
+      ]
     },
     {
       "address": "0x40873dddA165258E1c5aE487f4842dac3946Ad41",
@@ -53,7 +77,13 @@
         "name": "2025-03-19-13-43-v1.4.0-slashing",
         "phase": "eoa_wait_confirm",
         "segment": 0
-      }
+      },
+      "validations": [
+        {
+          "by": "michaelsun97@gmail.com",
+          "valid": true
+        }
+      ]
     },
     {
       "address": "0xCDea36294A06BC9FA03b6A3B943291B74FC53328",
@@ -64,7 +94,13 @@
         "name": "2025-03-19-13-43-v1.4.0-slashing",
         "phase": "eoa_wait_confirm",
         "segment": 0
-      }
+      },
+      "validations": [
+        {
+          "by": "michaelsun97@gmail.com",
+          "valid": true
+        }
+      ]
     },
     {
       "address": "0xCeE0E92D8399255f58CDC39fFa53334df04F02A7",
@@ -75,7 +111,13 @@
         "name": "2025-03-19-13-43-v1.4.0-slashing",
         "phase": "eoa_wait_confirm",
         "segment": 0
-      }
+      },
+      "validations": [
+        {
+          "by": "michaelsun97@gmail.com",
+          "valid": true
+        }
+      ]
     },
     {
       "address": "0xaa6412958594e8A78864743f5C0aaa917e590396",
@@ -86,7 +128,13 @@
         "name": "2025-03-19-13-43-v1.4.0-slashing",
         "phase": "eoa_wait_confirm",
         "segment": 0
-      }
+      },
+      "validations": [
+        {
+          "by": "michaelsun97@gmail.com",
+          "valid": true
+        }
+      ]
     },
     {
       "address": "0x8d2e0C4FeC336D2a4aEf689956B0C787c5121114",
@@ -97,7 +145,13 @@
         "name": "2025-03-19-13-43-v1.4.0-slashing",
         "phase": "eoa_wait_confirm",
         "segment": 0
-      }
+      },
+      "validations": [
+        {
+          "by": "michaelsun97@gmail.com",
+          "valid": true
+        }
+      ]
     },
     {
       "address": "0xA0f3f218428157FCB750b0F7b74a5e234bC2C2B1",
@@ -108,7 +162,13 @@
         "name": "2025-03-19-13-43-v1.4.0-slashing",
         "phase": "eoa_wait_confirm",
         "segment": 0
-      }
+      },
+      "validations": [
+        {
+          "by": "michaelsun97@gmail.com",
+          "valid": true
+        }
+      ]
     },
     {
       "address": "0x84aaD0F753b84Cd68F36Ff207DDfA0f2865b1a7d",
@@ -119,7 +179,13 @@
         "name": "2025-03-19-13-43-v1.4.0-slashing",
         "phase": "eoa_wait_confirm",
         "segment": 0
-      }
+      },
+      "validations": [
+        {
+          "by": "michaelsun97@gmail.com",
+          "valid": true
+        }
+      ]
     },
     {
       "address": "0x98a82726de51011e6Edc848461672Cf245CFEe8A",
@@ -130,7 +196,13 @@
         "name": "2025-03-19-13-43-v1.4.0-slashing",
         "phase": "eoa_wait_confirm",
         "segment": 0
-      }
+      },
+      "validations": [
+        {
+          "by": "michaelsun97@gmail.com",
+          "valid": true
+        }
+      ]
     }
   ]
 }
