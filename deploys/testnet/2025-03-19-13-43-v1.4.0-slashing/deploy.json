@@ -1,0 +1,29 @@
+{
+  "name": "2025-03-19-13-43-v1.4.0-slashing",
+  "env": "testnet",
+  "segmentId": 0,
+  "segments": [
+    {
+      "type": "eoa",
+      "filename": "1-deployContracts.s.sol",
+      "id": 0
+    },
+    {
+      "type": "multisig",
+      "filename": "2-queueUpgrade.s.sol",
+      "id": 1
+    },
+    {
+      "type": "multisig",
+      "filename": "3-executeUpgrade.s.sol",
+      "id": 2
+    }
+  ],
+  "metadata": [],
+  "upgrade": "v1.4.0-slashing",
+  "upgradePath": "script/releases/v1.4.0-slashing",
+  "phase": "",
+  "chainId": 17000,
+  "startTime": "Wed Mar 19 2025 13:43:46 GMT-0400 (Eastern Daylight Time)",
+  "startTimestamp": 1742406226.137
+}
