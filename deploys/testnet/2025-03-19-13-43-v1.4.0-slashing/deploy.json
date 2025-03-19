@@ -19,10 +19,79 @@
       "id": 2
     }
   ],
-  "metadata": [],
+  "metadata": [
+    {
+      "type": "eoa",
+      "signer": "0xDA29BB71669f46F2a779b4b62f03644A84eE3479",
+      "transactions": [],
+      "deployments": [
+        {
+          "address": "0xE4045dC0F17B39FAE4e69b6Df30Ad7cCc8e7D0Dd",
+          "contract": "PermissionController_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xE403b8D7Ec404fD814bf0AcaCF228f0B1022ACeB",
+          "contract": "AllocationManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x331e3Bd9cf69562f6F9ade72BD3D9f271f1B2506",
+          "contract": "AVSDirectory_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xeD28975331dfeE950899AC38e4Ba91415Ace7e0a",
+          "contract": "DelegationManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x40873dddA165258E1c5aE487f4842dac3946Ad41",
+          "contract": "RewardsCoordinator_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xCDea36294A06BC9FA03b6A3B943291B74FC53328",
+          "contract": "StrategyManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xCeE0E92D8399255f58CDC39fFa53334df04F02A7",
+          "contract": "EigenPodManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xaa6412958594e8A78864743f5C0aaa917e590396",
+          "contract": "EigenPod_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x8d2e0C4FeC336D2a4aEf689956B0C787c5121114",
+          "contract": "StrategyBaseTVLLimits_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xA0f3f218428157FCB750b0F7b74a5e234bC2C2B1",
+          "contract": "EigenStrategy_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x84aaD0F753b84Cd68F36Ff207DDfA0f2865b1a7d",
+          "contract": "StrategyFactory_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x98a82726de51011e6Edc848461672Cf245CFEe8A",
+          "contract": "StrategyBase_Impl",
+          "singleton": true
+        }
+      ],
+      "confirmed": false
+    }
+  ],
   "upgrade": "v1.4.0-slashing",
   "upgradePath": "script/releases/v1.4.0-slashing",
-  "phase": "eoa_start",
+  "phase": "eoa_wait_confirm",
   "chainId": 17000,
   "startTime": "Wed Mar 19 2025 13:43:46 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1742406226.137
