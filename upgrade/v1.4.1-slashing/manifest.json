@@ -1,0 +1,20 @@
+{
+  "name": "slashing-auditFixes-cantina",
+  "from": "1.4.0",
+  "to": "1.4.1",
+  "phases": [
+    {
+      "type": "eoa",
+      "filename": "1-deployContracts.s.sol"
+    },
+    {
+      "type": "multisig",
+      "filename": "2-queueUpgrade.s.sol"
+    },
+    {
+      "type": "multisig",
+      "filename": "3-executeUpgrade.s.sol"
+    }
+  ],
+  "commit": "b4b6e547e52dfb3c570c41c94ab723b49e081867"
+}
