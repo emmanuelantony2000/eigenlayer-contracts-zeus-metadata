@@ -1,6 +1,6 @@
 {
   "id": "preprod",
-  "deployedVersion": "1.4.0",
+  "deployedVersion": "1.4.1",
   "contracts": {
     "static": {
       "PauserRegistry_Impl": {
@@ -82,33 +82,15 @@
         }
       },
       "EigenPod_Impl": {
-        "address": "0xC213369BC878E93EdFD55C00f84DE08A5087a2A6",
+        "address": "0x27E86888306A1ED2Eff6Ec6eCD604aEfcceB56bC",
         "contract": "EigenPod_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x698f24c19646d3076f57d886f1bbc05b8198c2fc9f03bf2c385387a2372a0c15",
+        "deployedBytecodeHash": "0x89b66524ce4ce37f73e2ab740f09f8fc8b957bd793d3ef3784aee524b32f3509",
         "lastUpdatedIn": {
-          "name": "2025-03-18-14-25-v1.4.0-slashing",
+          "name": "2025-04-02-14-13-v1.4.1-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
-        },
-        "validations": [
-          {
-            "by": "michaelsun97@gmail.com",
-            "valid": true
-          },
-          {
-            "by": "rajathalex@gmail.com",
-            "valid": true
-          },
-          {
-            "by": "rajathalex@gmail.com",
-            "valid": true
-          },
-          {
-            "by": "rajathalex@gmail.com",
-            "valid": true
-          }
-        ]
+        }
       },
       "EigenPodManager_Proxy": {
         "singleton": true,
@@ -121,33 +103,15 @@
         }
       },
       "EigenPodManager_Impl": {
-        "address": "0xF3c6584C8515E5eddAF31959c0de8B42BB87154c",
+        "address": "0x42B5818055cfaA8f729690f53E61847b653BF8a0",
         "contract": "EigenPodManager_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x1720c8b1612e2d6cc33e79cbe3b2d88c6056aa71dcb73c655699383379de327d",
+        "deployedBytecodeHash": "0xfaa0a0600ef132f0616ab3b31d4d529e03543e6287e2fdccc8e863bcdb10ffa3",
         "lastUpdatedIn": {
-          "name": "2025-03-18-14-25-v1.4.0-slashing",
+          "name": "2025-04-02-14-13-v1.4.1-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
-        },
-        "validations": [
-          {
-            "by": "michaelsun97@gmail.com",
-            "valid": true
-          },
-          {
-            "by": "rajathalex@gmail.com",
-            "valid": true
-          },
-          {
-            "by": "rajathalex@gmail.com",
-            "valid": true
-          },
-          {
-            "by": "rajathalex@gmail.com",
-            "valid": true
-          }
-        ]
+        }
       },
       "DelegationManager_Proxy": {
         "singleton": true,
@@ -160,33 +124,15 @@
         }
       },
       "DelegationManager_Impl": {
-        "address": "0xB2A0f489c0ee48bb3Ea8D2bafE5956Def9cFD97d",
+        "address": "0x72EA1B8aFc07Bf2B925fbf8b2AD0Ad94dD2205Cb",
         "contract": "DelegationManager_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x261aaeee306680ee947bff19963638208cefe6013f0a527363c45f663ac4eb42",
+        "deployedBytecodeHash": "0xabe9f2968cfa8e52d67e59c07f6002b91c34ad7201446d176e90a7ef7ba42f60",
         "lastUpdatedIn": {
-          "name": "2025-03-18-14-25-v1.4.0-slashing",
+          "name": "2025-04-02-14-13-v1.4.1-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
-        },
-        "validations": [
-          {
-            "by": "michaelsun97@gmail.com",
-            "valid": true
-          },
-          {
-            "by": "rajathalex@gmail.com",
-            "valid": true
-          },
-          {
-            "by": "rajathalex@gmail.com",
-            "valid": true
-          },
-          {
-            "by": "rajathalex@gmail.com",
-            "valid": true
-          }
-        ]
+        }
       },
       "RewardsCoordinator_Proxy": {
         "singleton": true,
@@ -704,6 +650,6 @@
       }
     ]
   },
-  "latestDeployedCommit": "545cc6b7dc17409373048ae582886eb5c77b5c36",
+  "latestDeployedCommit": "b4b6e547e52dfb3c570c41c94ab723b49e081867",
   "chainId": 17000
 }
