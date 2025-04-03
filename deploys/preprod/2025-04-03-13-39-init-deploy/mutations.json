@@ -1,0 +1,14 @@
+{
+  "mutations": [
+    {
+      "next": "0x379B34D8D0fbbb753228c80d5C15DEc382F7C5F6",
+      "name": "actionGenerator",
+      "internalType": 4
+    },
+    {
+      "next": "0xf0b7894216FFAef0b449bBb1B0E295714f85e6c5",
+      "name": "tokenHopper",
+      "internalType": 4
+    }
+  ]
+}
