@@ -1,0 +1,37 @@
+{
+  "contracts": [
+    {
+      "address": "0xbCA04E4B27a31b500289E49344175843A2e3CC9C",
+      "contract": "DelegationManager_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xabe9f2968cfa8e52d67e59c07f6002b91c34ad7201446d176e90a7ef7ba42f60",
+      "lastUpdatedIn": {
+        "name": "2025-04-03-11-21-v1.4.1-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0xe93F791bc0Cc4C3c91cbBba4840De9F7Fc590b15",
+      "contract": "EigenPodManager_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xfaa0a0600ef132f0616ab3b31d4d529e03543e6287e2fdccc8e863bcdb10ffa3",
+      "lastUpdatedIn": {
+        "name": "2025-04-03-11-21-v1.4.1-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x454B7ae61EfaD9c2455eF4E8604a136593453109",
+      "contract": "EigenPod_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x89b66524ce4ce37f73e2ab740f09f8fc8b957bd793d3ef3784aee524b32f3509",
+      "lastUpdatedIn": {
+        "name": "2025-04-03-11-21-v1.4.1-slashing",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    }
+  ]
+}
