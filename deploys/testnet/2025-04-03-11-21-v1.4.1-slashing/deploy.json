@@ -54,7 +54,7 @@
   ],
   "upgrade": "v1.4.1-slashing",
   "upgradePath": "script/releases/v1.4.1-slashing",
-  "phase": "multisig_execute",
+  "phase": "multisig_wait_confirm",
   "chainId": 17000,
   "startTime": "Thu Apr 03 2025 11:21:41 GMT-0700 (Pacific Daylight Time)",
   "startTimestamp": 1743704501.369
