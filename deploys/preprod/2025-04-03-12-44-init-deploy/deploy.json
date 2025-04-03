@@ -27,7 +27,7 @@
   "metadata": [],
   "upgrade": "init-deploy",
   "upgradePath": "script/deploy/init-deploy",
-  "phase": "",
+  "phase": "eoa_start",
   "chainId": 17000,
   "startTime": "Thu Apr 03 2025 12:44:50 GMT-0700 (Pacific Daylight Time)",
   "startTimestamp": 1743709490.549
