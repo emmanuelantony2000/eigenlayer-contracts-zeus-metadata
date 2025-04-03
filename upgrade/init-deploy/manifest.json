@@ -1,7 +1,7 @@
 {
   "name": "TokenHopperDeploy",
-  "from": "1.4.0",
-  "to": "1.4.0",
+  "from": "1.4.1",
+  "to": "1.4.1",
   "phases": [
     {
       "type": "eoa",
@@ -20,5 +20,5 @@
       "filename": "4-executeGrantMintingRights.s.sol"
     }
   ],
-  "commit": "2f325862d1cbcd0229b422567be4bf9613f82684"
+  "commit": "02f3576e3793bd410828bc62df421c06033bb951"
 }
