@@ -1,6 +1,6 @@
 {
   "id": "testnet",
-  "deployedVersion": "1.4.0",
+  "deployedVersion": "1.4.1",
   "contracts": {
     "static": {
       "PauserRegistry_Impl": {
@@ -62,21 +62,15 @@
         }
       },
       "EigenPod_Impl": {
-        "address": "0xaa6412958594e8A78864743f5C0aaa917e590396",
+        "address": "0x454B7ae61EfaD9c2455eF4E8604a136593453109",
         "contract": "EigenPod_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x698f24c19646d3076f57d886f1bbc05b8198c2fc9f03bf2c385387a2372a0c15",
+        "deployedBytecodeHash": "0x89b66524ce4ce37f73e2ab740f09f8fc8b957bd793d3ef3784aee524b32f3509",
         "lastUpdatedIn": {
-          "name": "2025-03-19-13-43-v1.4.0-slashing",
+          "name": "2025-04-03-11-21-v1.4.1-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
-        },
-        "validations": [
-          {
-            "by": "michaelsun97@gmail.com",
-            "valid": true
-          }
-        ]
+        }
       },
       "EigenPodManager_Proxy": {
         "singleton": true,
@@ -89,21 +83,15 @@
         }
       },
       "EigenPodManager_Impl": {
-        "address": "0xCeE0E92D8399255f58CDC39fFa53334df04F02A7",
+        "address": "0xe93F791bc0Cc4C3c91cbBba4840De9F7Fc590b15",
         "contract": "EigenPodManager_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x1720c8b1612e2d6cc33e79cbe3b2d88c6056aa71dcb73c655699383379de327d",
+        "deployedBytecodeHash": "0xfaa0a0600ef132f0616ab3b31d4d529e03543e6287e2fdccc8e863bcdb10ffa3",
         "lastUpdatedIn": {
-          "name": "2025-03-19-13-43-v1.4.0-slashing",
+          "name": "2025-04-03-11-21-v1.4.1-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
-        },
-        "validations": [
-          {
-            "by": "michaelsun97@gmail.com",
-            "valid": true
-          }
-        ]
+        }
       },
       "DelegationManager_Proxy": {
         "singleton": true,
@@ -116,21 +104,15 @@
         }
       },
       "DelegationManager_Impl": {
-        "address": "0xeD28975331dfeE950899AC38e4Ba91415Ace7e0a",
+        "address": "0xbCA04E4B27a31b500289E49344175843A2e3CC9C",
         "contract": "DelegationManager_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x261aaeee306680ee947bff19963638208cefe6013f0a527363c45f663ac4eb42",
+        "deployedBytecodeHash": "0xabe9f2968cfa8e52d67e59c07f6002b91c34ad7201446d176e90a7ef7ba42f60",
         "lastUpdatedIn": {
-          "name": "2025-03-19-13-43-v1.4.0-slashing",
+          "name": "2025-04-03-11-21-v1.4.1-slashing",
           "phase": "eoa_wait_confirm",
           "segment": 0
-        },
-        "validations": [
-          {
-            "by": "michaelsun97@gmail.com",
-            "valid": true
-          }
-        ]
+        }
       },
       "RewardsCoordinator_Proxy": {
         "singleton": true,
@@ -536,6 +518,6 @@
       }
     ]
   },
-  "latestDeployedCommit": "545cc6b7dc17409373048ae582886eb5c77b5c36",
+  "latestDeployedCommit": "db0f582ba9b4df861b72269267d4980d7f3f7490",
   "chainId": 17000
 }
