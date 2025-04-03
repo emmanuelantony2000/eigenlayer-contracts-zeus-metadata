@@ -1,7 +1,7 @@
 {
   "name": "2025-04-03-13-39-init-deploy",
   "env": "preprod",
-  "segmentId": 1,
+  "segmentId": 2,
   "segments": [
     {
       "type": "eoa",
@@ -31,6 +31,15 @@
       "transactions": [],
       "deployments": [],
       "confirmed": true
+    },
+    {
+      "type": "multisig",
+      "signer": "0xDA29BB71669f46F2a779b4b62f03644A84eE3479",
+      "signerType": "gnosis.onchain",
+      "gnosisTransactionHash": "0x3b969ac86ec979d568ef9678a70c1e2ea0643596a26985b17336edc9e5fd7ef5",
+      "multisig": "0x6d609cD2812bDA02a75dcABa7DaafE4B20Ff5608",
+      "confirmed": true,
+      "immediateExecutionHash": "0x35b4de65237d8c898b53ca8b1c5083217c8eddd2ae03da97b05d4c2095ece08d"
     }
   ],
   "upgrade": "init-deploy",
