@@ -57,6 +57,6 @@
   "upgradePath": "script/releases/v1.3.0-slashing",
   "phase": "",
   "chainId": 1,
-  "startTime": "Mon Apr 07 2025 11:52:09 GMT-0700 (Pacific Daylight Time)",
-  "startTimestamp": 1744051929.188
+  "startTime": "Mon Apr 07 2025 11:52:29 GMT-0700 (Pacific Daylight Time)",
+  "startTimestamp": 1744051949.38
 }
