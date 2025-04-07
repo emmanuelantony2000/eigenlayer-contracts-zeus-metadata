@@ -135,11 +135,19 @@
         }
       ],
       "confirmed": true
+    },
+    {
+      "type": "multisig",
+      "signer": "0xdC541e2B4adD96888b2C79006F49A9748A4f1bDF",
+      "signerType": "gnosis.api.ledger",
+      "gnosisTransactionHash": "0x98aa59e4fbe47fe8e447223ea65949c0738321535231a170bab16c88afe4ed7f",
+      "multisig": "0xBE1685C81aA44FF9FB319dD389addd9374383e90",
+      "confirmed": false
     }
   ],
   "upgrade": "v1.3.0-slashing",
   "upgradePath": "script/releases/v1.3.0-slashing",
-  "phase": "multisig_start",
+  "phase": "multisig_wait_signers",
   "chainId": 1,
   "startTime": "Mon Apr 07 2025 11:54:36 GMT-0700 (Pacific Daylight Time)",
   "startTimestamp": 1744052076.923
