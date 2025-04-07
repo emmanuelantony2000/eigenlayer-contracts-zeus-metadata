@@ -52,10 +52,94 @@
       "id": 4
     }
   ],
-  "metadata": [],
+  "metadata": [
+    {
+      "type": "eoa",
+      "signer": "0x4DA954dd93601A29B09bEe1EB0651492b7c08Cf4",
+      "transactions": [],
+      "deployments": [
+        {
+          "address": "0xB8765ed72235d279c3Fb53936E4606db0Ef12806",
+          "contract": "PauserRegistry_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xe7f3705c9Addf2DE14e03C345fA982CAb2c1C6B1",
+          "contract": "PermissionController_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x25E5F8B1E7aDf44518d35D5B2271f114e081f0E5",
+          "contract": "PermissionController_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0x740058839A1668Af5700e5d7B062007275e77D25",
+          "contract": "AllocationManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x948a420b8CC1d6BFd0B6087C2E7c344a2CD0bc39",
+          "contract": "AllocationManager_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0xA396D855D70e1A1ec1A0199ADB9845096683B6A2",
+          "contract": "AVSDirectory_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xA75112d1df37FA53a431525CD47A7d7faCEA7E73",
+          "contract": "DelegationManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xa505c0116aD65071F0130061F94745b7853220aB",
+          "contract": "RewardsCoordinator_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xba4b2b8A076851A3044882493C2e36503d50b925",
+          "contract": "StrategyManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x9801266CbBbe1E94bB9dAf7de8D61528f49CeC77",
+          "contract": "EigenPodManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xB132a8DaD03A507f1b9D2F467A4936Df2161C63e",
+          "contract": "EigenPod_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xaFDa870d4A94B9444F9F22A0e61806178b6Bf178",
+          "contract": "StrategyBaseTVLLimits_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x90B074DDD680bD06C72e28b09231A0F848205729",
+          "contract": "EigenStrategy_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x1b97d8F963179C0e17E5F3d85cdfd9a31A49bc66",
+          "contract": "StrategyFactory_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x0EC17ef9c00F360DB28CA8008684a4796b11E456",
+          "contract": "StrategyBase_Impl",
+          "singleton": true
+        }
+      ],
+      "confirmed": false
+    }
+  ],
   "upgrade": "v1.3.0-slashing",
   "upgradePath": "script/releases/v1.3.0-slashing",
-  "phase": "eoa_start",
+  "phase": "eoa_wait_confirm",
   "chainId": 1,
   "startTime": "Mon Apr 07 2025 11:54:36 GMT-0700 (Pacific Daylight Time)",
   "startTimestamp": 1744052076.923
