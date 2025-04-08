@@ -1,7 +1,7 @@
 {
   "name": "2025-04-08-11-38-init-deploy",
   "env": "testnet",
-  "segmentId": 1,
+  "segmentId": 2,
   "segments": [
     {
       "type": "eoa",
@@ -38,12 +38,12 @@
       "signerType": "gnosis.api.eoa",
       "gnosisTransactionHash": "0xadec5eff67dd2a321c71fbb1d47aebf763ceae160bae1f172038c155ba108f7a",
       "multisig": "0xfaEF7338b7490b9E272d80A1a39f4657cAf2b97d",
-      "confirmed": false
+      "confirmed": true
     }
   ],
   "upgrade": "init-deploy",
   "upgradePath": "script/deploy/init-deploy",
-  "phase": "multisig_wait_confirm",
+  "phase": "multisig_start",
   "chainId": 17000,
   "startTime": "Tue Apr 08 2025 11:38:34 GMT-0700 (Pacific Daylight Time)",
   "startTimestamp": 1744137514.023
