@@ -1,7 +1,7 @@
 {
   "name": "2025-04-08-11-38-init-deploy",
   "env": "testnet",
-  "segmentId": 0,
+  "segmentId": 1,
   "segments": [
     {
       "type": "eoa",
@@ -30,12 +30,12 @@
       "signer": "0x27977e6E4426A525d055A587d2a0537b4cb376eA",
       "transactions": [],
       "deployments": [],
-      "confirmed": false
+      "confirmed": true
     }
   ],
   "upgrade": "init-deploy",
   "upgradePath": "script/deploy/init-deploy",
-  "phase": "eoa_wait_confirm",
+  "phase": "multisig_start",
   "chainId": 17000,
   "startTime": "Tue Apr 08 2025 11:38:34 GMT-0700 (Pacific Daylight Time)",
   "startTimestamp": 1744137514.023
