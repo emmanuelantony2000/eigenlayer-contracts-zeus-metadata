@@ -1,0 +1,49 @@
+{
+  "safe": "0xfaEF7338b7490b9E272d80A1a39f4657cAf2b97d",
+  "to": "0xAcc1fb458a1317E886dB376Fc8141540537E68fE",
+  "value": "0",
+  "data": "0x0eb383450000000000000000000000001d95fb363ee0f2cbf5ccdeba1a4b2e975de2a51c0000000000000000000000000000000000000000000000000000000000000001",
+  "operation": 0,
+  "gasToken": "0x0000000000000000000000000000000000000000",
+  "safeTxGas": 0,
+  "baseGas": 0,
+  "gasPrice": "0",
+  "refundReceiver": "0x0000000000000000000000000000000000000000",
+  "nonce": 28,
+  "executionDate": "2025-04-08T19:15:24Z",
+  "submissionDate": "2025-04-08T19:13:13.354261Z",
+  "modified": "2025-04-08T19:15:24Z",
+  "blockNumber": 3639451,
+  "transactionHash": "0xd44cc5675d8c95affb02b8bd86b0adee5caeeb7b9a46695adc6b2925b7c6c17c",
+  "safeTxHash": "0x81c1a070a672240104183d937f871c2101270481fbc6069d094df0601cd05049",
+  "proposer": "0x27977e6E4426A525d055A587d2a0537b4cb376eA",
+  "executor": "0x3E5Ab7bf85Ccf8A41c08BFe5414c405cb3114033",
+  "isExecuted": true,
+  "isSuccessful": true,
+  "ethGasPrice": "1001816",
+  "maxFeePerGas": "1001824",
+  "maxPriorityFeePerGas": "1001808",
+  "gasUsed": 99228,
+  "fee": "99408198048",
+  "origin": "{}",
+  "dataDecoded": null,
+  "confirmationsRequired": 2,
+  "confirmations": [
+    {
+      "owner": "0x27977e6E4426A525d055A587d2a0537b4cb376eA",
+      "submissionDate": "2025-04-08T19:13:13.410467Z",
+      "transactionHash": null,
+      "signature": "0x59368a4164e2e9fa63497bb54b8a9d0c32b5bca3a788bc550d7a66d8208910d932b621fff63dd2170ad62c0d17a398646a56c03dd5a92d57acf9190334944fbe1c",
+      "signatureType": "EOA"
+    },
+    {
+      "owner": "0x3E5Ab7bf85Ccf8A41c08BFe5414c405cb3114033",
+      "submissionDate": "2025-04-08T19:15:24Z",
+      "transactionHash": null,
+      "signature": "0x0000000000000000000000003e5ab7bf85ccf8a41c08bfe5414c405cb3114033000000000000000000000000000000000000000000000000000000000000000001",
+      "signatureType": "APPROVED_HASH"
+    }
+  ],
+  "trusted": true,
+  "signatures": "0x59368a4164e2e9fa63497bb54b8a9d0c32b5bca3a788bc550d7a66d8208910d932b621fff63dd2170ad62c0d17a398646a56c03dd5a92d57acf9190334944fbe1c0000000000000000000000003e5ab7bf85ccf8a41c08bfe5414c405cb3114033000000000000000000000000000000000000000000000000000000000000000001"
+}
