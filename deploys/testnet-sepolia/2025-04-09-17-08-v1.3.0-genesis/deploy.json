@@ -29,10 +29,144 @@
       "id": 4
     }
   ],
-  "metadata": [],
+  "metadata": [
+    {
+      "type": "eoa",
+      "signer": "0xDA29BB71669f46F2a779b4b62f03644A84eE3479",
+      "transactions": [],
+      "deployments": [
+        {
+          "address": "0xD4A7E1Bd8015057293f0D0A557088c286942e84b",
+          "contract": "DelegationManager_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0x2E3D6c0744b10eb0A4e6F679F71554a39Ec47a5D",
+          "contract": "StrategyManager_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0x066cF95c1bf0927124DFB8B02B401bc23A79730D",
+          "contract": "StrategyFactory_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0xa789c91ECDdae96865913130B786140Ee17aF545",
+          "contract": "AVSDirectory_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0x42583067658071247ec8CE0A516A58f682002d07",
+          "contract": "AllocationManager_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0x5ae8152fb88c26ff9ca5C014c94fca3c68029349",
+          "contract": "RewardsCoordinator_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0x56BfEb94879F4543E756d26103976c567256034a",
+          "contract": "EigenPodManager_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0x09A4c2a9C3Ac0AF6E89BD768220493eBF2F4f929",
+          "contract": "EigenPod_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0x44632dfBdCb6D3E21EF613B0ca8A6A0c618F5a37",
+          "contract": "PermissionController_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0x8E93249a6C37a32024756aaBd813E6139b17D1d5",
+          "contract": "EigenStrategy_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0xd85d0D9e24dC9af8a517034Caab2db68aD936bCf",
+          "contract": "EigenPod_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x0e19E56E41D42137d00dD4f51EC2F613E50cAcf4",
+          "contract": "EigenPod_Beacon",
+          "singleton": true
+        },
+        {
+          "address": "0x63AAe451780090f50Ad323aAEF155F63a29D20f3",
+          "contract": "PauserRegistry_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xa7227485e6C693AC4566fe168C5E3647c5c267f3",
+          "contract": "DelegationManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x88457741E1bDE012a36Fc154B9004384C1eAEB1b",
+          "contract": "StrategyManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xD88b96998325c3e74A74a0B0938BBFeA1395C188",
+          "contract": "AVSDirectory_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x8b1DBbAa79507CD6b6e1d9FBe90E3FB18EFf11a0",
+          "contract": "EigenPodManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xcC305562B01bec562D13A40ef8781e313AFE7940",
+          "contract": "RewardsCoordinator_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x742A228482701d693061BfE9C5B3Eb3959Ea927b",
+          "contract": "AllocationManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x59B11b191B572888703E150E45F5015e0fFcf525",
+          "contract": "PermissionController_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0xEE41826B7D5B89e7F5eED6a831b4eFD69FC9ca1A",
+          "contract": "StrategyFactory_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x65147e9916152C1EbdBaD8A6f3e145b4BDeE2D6F",
+          "contract": "StrategyBaseTVLLimits_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x46CFA3C2eaDe97D53739120b87A63F739B9616db",
+          "contract": "EigenStrategy_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x9E0540212b45FE44459cDAD25CD9077acFB77C5c",
+          "contract": "StrategyBase_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x427e627Bc7E83cac0f84337d3Ad94230C32697D3",
+          "contract": "StrategyBase_Beacon",
+          "singleton": true
+        }
+      ],
+      "confirmed": false
+    }
+  ],
   "upgrade": "v1.3.0-genesis",
   "upgradePath": "script/releases/v1.3.0-genesis",
-  "phase": "eoa_start",
+  "phase": "eoa_wait_confirm",
   "chainId": 11155111,
   "startTime": "Wed Apr 09 2025 17:08:56 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1744232936.547

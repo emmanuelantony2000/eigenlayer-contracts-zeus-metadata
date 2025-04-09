@@ -1,0 +1,279 @@
+{
+  "contracts": [
+    {
+      "address": "0xD4A7E1Bd8015057293f0D0A557088c286942e84b",
+      "contract": "DelegationManager_Proxy",
+      "singleton": true,
+      "deployedBytecodeHash": "0x261aaeee306680ee947bff19963638208cefe6013f0a527363c45f663ac4eb42",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x2E3D6c0744b10eb0A4e6F679F71554a39Ec47a5D",
+      "contract": "StrategyManager_Proxy",
+      "singleton": true,
+      "deployedBytecodeHash": "0xa1da79adc995a8773f427c77d36a5e83166acee177f43623fc02d5943022edbb",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x066cF95c1bf0927124DFB8B02B401bc23A79730D",
+      "contract": "StrategyFactory_Proxy",
+      "singleton": true,
+      "deployedBytecodeHash": "0xaa753847be774b02d90ba7fceb4ca59ef6e757c220c9f0909fe7a91ba49bc533",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0xa789c91ECDdae96865913130B786140Ee17aF545",
+      "contract": "AVSDirectory_Proxy",
+      "singleton": true,
+      "deployedBytecodeHash": "0x8b265a4480e974b83f07966be58f6a9fec3bd7ae34444976854e606bba19ca73",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x42583067658071247ec8CE0A516A58f682002d07",
+      "contract": "AllocationManager_Proxy",
+      "singleton": true,
+      "deployedBytecodeHash": "0x54663ced897c01de583dfe48962077bc7a51673fe6c230afe69d70c6562439c3",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x5ae8152fb88c26ff9ca5C014c94fca3c68029349",
+      "contract": "RewardsCoordinator_Proxy",
+      "singleton": true,
+      "deployedBytecodeHash": "0xba56a7520f189ef2a1d0c8f29e5575ccec26306eed0174a46f44e65a8875d57d",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x56BfEb94879F4543E756d26103976c567256034a",
+      "contract": "EigenPodManager_Proxy",
+      "singleton": true,
+      "deployedBytecodeHash": "0x1720c8b1612e2d6cc33e79cbe3b2d88c6056aa71dcb73c655699383379de327d",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x09A4c2a9C3Ac0AF6E89BD768220493eBF2F4f929",
+      "contract": "EigenPod_Proxy",
+      "singleton": true,
+      "deployedBytecodeHash": "0x698f24c19646d3076f57d886f1bbc05b8198c2fc9f03bf2c385387a2372a0c15",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x44632dfBdCb6D3E21EF613B0ca8A6A0c618F5a37",
+      "contract": "PermissionController_Proxy",
+      "singleton": true,
+      "deployedBytecodeHash": "0xaa505aa1b4fd8fa24987a81eb40b414454fe2f9f65ba8bf4319cf02c6a05f5aa",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x8E93249a6C37a32024756aaBd813E6139b17D1d5",
+      "contract": "EigenStrategy_Proxy",
+      "singleton": true,
+      "deployedBytecodeHash": "0xc46d07c4c493b6680ca98d303f1850f694e92e50747e998cf2bc19f41a7d427b",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0xd85d0D9e24dC9af8a517034Caab2db68aD936bCf",
+      "contract": "EigenPod_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x698f24c19646d3076f57d886f1bbc05b8198c2fc9f03bf2c385387a2372a0c15",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x0e19E56E41D42137d00dD4f51EC2F613E50cAcf4",
+      "contract": "EigenPod_Beacon",
+      "singleton": true,
+      "deployedBytecodeHash": "0x698f24c19646d3076f57d886f1bbc05b8198c2fc9f03bf2c385387a2372a0c15",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x63AAe451780090f50Ad323aAEF155F63a29D20f3",
+      "contract": "PauserRegistry_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x668a1ceda4ff011347dbfc4b41102a51aa2f50658f1c579730dc3f14d275b9d0",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0xa7227485e6C693AC4566fe168C5E3647c5c267f3",
+      "contract": "DelegationManager_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x261aaeee306680ee947bff19963638208cefe6013f0a527363c45f663ac4eb42",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x88457741E1bDE012a36Fc154B9004384C1eAEB1b",
+      "contract": "StrategyManager_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xa1da79adc995a8773f427c77d36a5e83166acee177f43623fc02d5943022edbb",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0xD88b96998325c3e74A74a0B0938BBFeA1395C188",
+      "contract": "AVSDirectory_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x8b265a4480e974b83f07966be58f6a9fec3bd7ae34444976854e606bba19ca73",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x8b1DBbAa79507CD6b6e1d9FBe90E3FB18EFf11a0",
+      "contract": "EigenPodManager_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x1720c8b1612e2d6cc33e79cbe3b2d88c6056aa71dcb73c655699383379de327d",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0xcC305562B01bec562D13A40ef8781e313AFE7940",
+      "contract": "RewardsCoordinator_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xba56a7520f189ef2a1d0c8f29e5575ccec26306eed0174a46f44e65a8875d57d",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x742A228482701d693061BfE9C5B3Eb3959Ea927b",
+      "contract": "AllocationManager_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x54663ced897c01de583dfe48962077bc7a51673fe6c230afe69d70c6562439c3",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x59B11b191B572888703E150E45F5015e0fFcf525",
+      "contract": "PermissionController_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xaa505aa1b4fd8fa24987a81eb40b414454fe2f9f65ba8bf4319cf02c6a05f5aa",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0xEE41826B7D5B89e7F5eED6a831b4eFD69FC9ca1A",
+      "contract": "StrategyFactory_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xaa753847be774b02d90ba7fceb4ca59ef6e757c220c9f0909fe7a91ba49bc533",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x65147e9916152C1EbdBaD8A6f3e145b4BDeE2D6F",
+      "contract": "StrategyBaseTVLLimits_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xcda136ff4ed044f7160a2cd305980d834824f1bbf57ce29eda6c421eda084af3",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x46CFA3C2eaDe97D53739120b87A63F739B9616db",
+      "contract": "EigenStrategy_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xc46d07c4c493b6680ca98d303f1850f694e92e50747e998cf2bc19f41a7d427b",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x9E0540212b45FE44459cDAD25CD9077acFB77C5c",
+      "contract": "StrategyBase_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x33fbb165b28cdc95bb05fa326a336358545fe9eaf9b18fd7d8ed6f2f8fcda5e6",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    },
+    {
+      "address": "0x427e627Bc7E83cac0f84337d3Ad94230C32697D3",
+      "contract": "StrategyBase_Beacon",
+      "singleton": true,
+      "deployedBytecodeHash": "0x33fbb165b28cdc95bb05fa326a336358545fe9eaf9b18fd7d8ed6f2f8fcda5e6",
+      "lastUpdatedIn": {
+        "name": "2025-04-09-17-08-v1.3.0-genesis",
+        "phase": "eoa_wait_confirm",
+        "segment": 0
+      }
+    }
+  ]
+}
