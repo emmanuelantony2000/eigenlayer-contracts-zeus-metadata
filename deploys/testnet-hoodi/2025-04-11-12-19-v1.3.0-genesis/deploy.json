@@ -180,11 +180,18 @@
       "multisig": "0x6f8459810197cc9fE123BBeB918451757a4fBAc6",
       "confirmed": true,
       "immediateExecutionHash": "0x4cb50d910acfe2ff3029c7ecee353ee660e5cd3230607a2e9a4818ab81194aaf"
+    },
+    {
+      "type": "multisig",
+      "signer": "0xDA29BB71669f46F2a779b4b62f03644A84eE3479",
+      "signerType": "gnosis.onchain",
+      "multisig": "0xb094Ba769b4976Dc37fC689A76675f31bc4923b0",
+      "confirmed": true
     }
   ],
   "upgrade": "v1.3.0-genesis",
   "upgradePath": "script/releases/v1.3.0-genesis",
-  "phase": "multisig_start",
+  "phase": "multisig_wait_signers",
   "chainId": 560048,
   "startTime": "Fri Apr 11 2025 12:19:34 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1744388374.19
