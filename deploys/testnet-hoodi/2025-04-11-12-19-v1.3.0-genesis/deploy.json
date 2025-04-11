@@ -1,7 +1,7 @@
 {
   "name": "2025-04-11-12-19-v1.3.0-genesis",
   "env": "testnet-hoodi",
-  "segmentId": 1,
+  "segmentId": 2,
   "segments": [
     {
       "type": "eoa",
@@ -162,6 +162,15 @@
         }
       ],
       "confirmed": true
+    },
+    {
+      "type": "multisig",
+      "signer": "0xDA29BB71669f46F2a779b4b62f03644A84eE3479",
+      "signerType": "gnosis.onchain",
+      "gnosisTransactionHash": "0xfd8812dfe83653d635016929c80b3cddb4ce851b10cfe43db08286323c0ad7d0",
+      "multisig": "0x6f8459810197cc9fE123BBeB918451757a4fBAc6",
+      "confirmed": true,
+      "immediateExecutionHash": "0x7d55e6fbdad61242367dff1eb97f2f3284e6b8b86cd244bc929c80a386111321"
     }
   ],
   "upgrade": "v1.3.0-genesis",
