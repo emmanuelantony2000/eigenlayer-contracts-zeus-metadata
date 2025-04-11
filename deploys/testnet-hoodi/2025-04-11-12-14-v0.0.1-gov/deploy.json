@@ -9,10 +9,39 @@
       "id": 0
     }
   ],
-  "metadata": [],
+  "metadata": [
+    {
+      "type": "eoa",
+      "signer": "0xDA29BB71669f46F2a779b4b62f03644A84eE3479",
+      "transactions": [],
+      "deployments": [
+        {
+          "address": "0x6e60888132Cc7e637488379B4B40c42b3751f63a",
+          "contract": "BackingEigen_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0x8ae2520954db7D80D66835cB71E692835bbA45bf",
+          "contract": "Eigen_Proxy",
+          "singleton": true
+        },
+        {
+          "address": "0x43e4940aCeb1C1F5a57e307EEB212007F0f6a1C4",
+          "contract": "BackingEigen_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x45D3f8CC7e6AC1c0891DAfA90CE299Abf0aD9053",
+          "contract": "Eigen_Impl",
+          "singleton": true
+        }
+      ],
+      "confirmed": false
+    }
+  ],
   "upgrade": "v0.0.1-gov",
   "upgradePath": "script/releases/v0.0.1-gov",
-  "phase": "eoa_start",
+  "phase": "eoa_wait_confirm",
   "chainId": 560048,
   "startTime": "Fri Apr 11 2025 12:14:54 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1744388094.639
