@@ -32,7 +32,7 @@
   "metadata": [],
   "upgrade": "v1.3.0-genesis",
   "upgradePath": "script/releases/v1.3.0-genesis",
-  "phase": "",
+  "phase": "eoa_start",
   "chainId": 560048,
   "startTime": "Fri Apr 11 2025 12:19:34 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1744388374.19
