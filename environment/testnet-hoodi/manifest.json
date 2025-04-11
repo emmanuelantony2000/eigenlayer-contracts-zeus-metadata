@@ -1,10 +1,55 @@
 {
   "id": "testnet-hoodi",
-  "deployedVersion": "0.0.0",
+  "deployedVersion": "0.0.1",
   "contracts": {
-    "static": {},
+    "static": {
+      "BackingEigen_Proxy": {
+        "address": "0x6e60888132Cc7e637488379B4B40c42b3751f63a",
+        "contract": "BackingEigen_Proxy",
+        "singleton": true,
+        "deployedBytecodeHash": "0xf059d371f0a07fe6145fd316f41c21922adaea250467883bd858b614a9190f43",
+        "lastUpdatedIn": {
+          "name": "2025-04-11-12-14-v0.0.1-gov",
+          "phase": "eoa_wait_confirm",
+          "segment": 0
+        }
+      },
+      "Eigen_Proxy": {
+        "address": "0x8ae2520954db7D80D66835cB71E692835bbA45bf",
+        "contract": "Eigen_Proxy",
+        "singleton": true,
+        "deployedBytecodeHash": "0x068b0b9a18abdc48a75d9626e6ae40d6b47dfc3639ba6fb19bdbd1bda397d240",
+        "lastUpdatedIn": {
+          "name": "2025-04-11-12-14-v0.0.1-gov",
+          "phase": "eoa_wait_confirm",
+          "segment": 0
+        }
+      },
+      "BackingEigen_Impl": {
+        "address": "0x43e4940aCeb1C1F5a57e307EEB212007F0f6a1C4",
+        "contract": "BackingEigen_Impl",
+        "singleton": true,
+        "deployedBytecodeHash": "0xf059d371f0a07fe6145fd316f41c21922adaea250467883bd858b614a9190f43",
+        "lastUpdatedIn": {
+          "name": "2025-04-11-12-14-v0.0.1-gov",
+          "phase": "eoa_wait_confirm",
+          "segment": 0
+        }
+      },
+      "Eigen_Impl": {
+        "address": "0x45D3f8CC7e6AC1c0891DAfA90CE299Abf0aD9053",
+        "contract": "Eigen_Impl",
+        "singleton": true,
+        "deployedBytecodeHash": "0x068b0b9a18abdc48a75d9626e6ae40d6b47dfc3639ba6fb19bdbd1bda397d240",
+        "lastUpdatedIn": {
+          "name": "2025-04-11-12-14-v0.0.1-gov",
+          "phase": "eoa_wait_confirm",
+          "segment": 0
+        }
+      }
+    },
     "instances": []
   },
-  "latestDeployedCommit": "",
+  "latestDeployedCommit": "00e5091b3114dbbf9c8077bd696352a5dc0be071",
   "chainId": 560048
 }
