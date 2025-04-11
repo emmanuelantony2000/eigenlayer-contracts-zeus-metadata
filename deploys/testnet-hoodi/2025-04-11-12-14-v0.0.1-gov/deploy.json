@@ -12,7 +12,7 @@
   "metadata": [],
   "upgrade": "v0.0.1-gov",
   "upgradePath": "script/releases/v0.0.1-gov",
-  "phase": "",
+  "phase": "eoa_start",
   "chainId": 560048,
   "startTime": "Fri Apr 11 2025 12:14:54 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1744388094.639
