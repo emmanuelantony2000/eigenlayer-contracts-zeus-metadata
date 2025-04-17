@@ -159,12 +159,12 @@
       "signerType": "gnosis.api.ledger",
       "gnosisTransactionHash": "0x5ef1674f1d97bd883a3929a8332d413c09baae5207db6b6755d02f72beb73e8a",
       "multisig": "0x461854d84Ee845F905e0eCf6C288DDEEb4A9533F",
-      "confirmed": false
+      "confirmed": true
     }
   ],
   "upgrade": "v1.3.0-slashing",
   "upgradePath": "script/releases/v1.3.0-slashing",
-  "phase": "multisig_wait_confirm",
+  "phase": "complete",
   "chainId": 1,
   "startTime": "Mon Apr 07 2025 11:54:36 GMT-0700 (Pacific Daylight Time)",
   "startTimestamp": 1744052076.923
