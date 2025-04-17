@@ -1,7 +1,7 @@
 {
   "name": "2025-04-07-11-54-v1.3.0-slashing",
   "env": "mainnet",
-  "segmentId": 3,
+  "segmentId": 4,
   "segments": [
     {
       "type": "eoa",
@@ -155,7 +155,7 @@
   ],
   "upgrade": "v1.3.0-slashing",
   "upgradePath": "script/releases/v1.3.0-slashing",
-  "phase": "script_run",
+  "phase": "multisig_start",
   "chainId": 1,
   "startTime": "Mon Apr 07 2025 11:54:36 GMT-0700 (Pacific Daylight Time)",
   "startTimestamp": 1744052076.923

@@ -1,7 +1,6 @@
 {
-  "success": false,
-  "exitCode": 1,
-  "stdout": null,
-  "stderr": null,
-  "date": "Thu Apr 17 2025 15:38:38 GMT-0400 (Eastern Daylight Time)"
+  "success": true,
+  "exitCode": 0,
+  "stderr": "",
+  "date": "Thu Apr 17 2025 15:48:03 GMT-0400 (Eastern Daylight Time)"
 }
