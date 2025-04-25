@@ -79,11 +79,19 @@
       "gnosisTransactionHash": "0xc0ec6f8f2c09b4565b1578621ee7f7357ac3e058806670498eb6fd2fa3464c3a",
       "multisig": "0xBE1685C81aA44FF9FB319dD389addd9374383e90",
       "confirmed": true
+    },
+    {
+      "type": "multisig",
+      "signer": "0xdC541e2B4adD96888b2C79006F49A9748A4f1bDF",
+      "signerType": "gnosis.api.ledger",
+      "gnosisTransactionHash": "0x1a0a4f0b3a782bfd4bc0ef4dff9a89f229197c4dbf7838f29bf170c1476df3f3",
+      "multisig": "0xBE1685C81aA44FF9FB319dD389addd9374383e90",
+      "confirmed": false
     }
   ],
   "upgrade": "v1.4.1-pectra-compatability",
   "upgradePath": "script/releases/v1.4.1-pectra-compatability",
-  "phase": "multisig_start",
+  "phase": "multisig_wait_signers",
   "chainId": 1,
   "startTime": "Fri Apr 25 2025 12:31:47 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1745598707.948
