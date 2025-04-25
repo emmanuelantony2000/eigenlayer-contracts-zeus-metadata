@@ -71,11 +71,19 @@
         }
       ],
       "confirmed": true
+    },
+    {
+      "type": "multisig",
+      "signer": "0x32ee173add6277ec7fc5d20c552b33d0ab60422b819de38eca8f62ce656d52371c17bf299abb1f1cb5abfd5d32ca6f272327dcf8b022924ec5790e665eb11c4f1c",
+      "signerType": "gnosis.api.web",
+      "gnosisTransactionHash": "0xc0ec6f8f2c09b4565b1578621ee7f7357ac3e058806670498eb6fd2fa3464c3a",
+      "multisig": "0xBE1685C81aA44FF9FB319dD389addd9374383e90",
+      "confirmed": false
     }
   ],
   "upgrade": "v1.4.1-pectra-compatability",
   "upgradePath": "script/releases/v1.4.1-pectra-compatability",
-  "phase": "multisig_start",
+  "phase": "multisig_wait_signers",
   "chainId": 1,
   "startTime": "Fri Apr 25 2025 12:31:47 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1745598707.948
