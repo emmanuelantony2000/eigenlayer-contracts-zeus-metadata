@@ -74,7 +74,7 @@
     },
     {
       "type": "multisig",
-      "signer": "0x32ee173add6277ec7fc5d20c552b33d0ab60422b819de38eca8f62ce656d52371c17bf299abb1f1cb5abfd5d32ca6f272327dcf8b022924ec5790e665eb11c4f1c",
+      "signer": "0xdC541e2B4adD96888b2C79006F49A9748A4f1bDF",
       "signerType": "gnosis.api.web",
       "gnosisTransactionHash": "0xc0ec6f8f2c09b4565b1578621ee7f7357ac3e058806670498eb6fd2fa3464c3a",
       "multisig": "0xBE1685C81aA44FF9FB319dD389addd9374383e90",
