@@ -1,6 +1,6 @@
 {
   "id": "preprod",
-  "deployedVersion": "1.4.1",
+  "deployedVersion": "1.4.2",
   "contracts": {
     "static": {
       "PauserRegistry_Impl": {
@@ -124,14 +124,15 @@
         }
       },
       "DelegationManager_Impl": {
-        "address": "0x72EA1B8aFc07Bf2B925fbf8b2AD0Ad94dD2205Cb",
+        "address": "0xD291607A288c5211E88008949974FC543FE48896",
         "contract": "DelegationManager_Impl",
         "singleton": true,
         "deployedBytecodeHash": "0xabe9f2968cfa8e52d67e59c07f6002b91c34ad7201446d176e90a7ef7ba42f60",
         "lastUpdatedIn": {
-          "name": "2025-04-02-14-13-v1.4.1-slashing",
+          "name": "2025-04-29-15-10-v1.4.2-testnet-delay-reduction",
           "phase": "eoa_wait_confirm",
-          "segment": 0
+          "segment": 0,
+          "signer": "0xDA29BB71669f46F2a779b4b62f03644A84eE3479"
         }
       },
       "RewardsCoordinator_Proxy": {
@@ -457,33 +458,16 @@
         ]
       },
       "AllocationManager_Impl": {
-        "address": "0x0f657737D0298625eea440b1B831AfefBc228B57",
+        "address": "0x244B90D5A8fBDcd6DbEA6ab80249787FF855c334",
         "contract": "AllocationManager_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x54663ced897c01de583dfe48962077bc7a51673fe6c230afe69d70c6562439c3",
+        "deployedBytecodeHash": "0x96e8f5a0585fe8d3d001b40aaf057fd9c480312858ae6e469107c25b2d0432b7",
         "lastUpdatedIn": {
-          "name": "2025-03-18-14-25-v1.4.0-slashing",
+          "name": "2025-04-29-15-10-v1.4.2-testnet-delay-reduction",
           "phase": "eoa_wait_confirm",
-          "segment": 0
-        },
-        "validations": [
-          {
-            "by": "michaelsun97@gmail.com",
-            "valid": true
-          },
-          {
-            "by": "rajathalex@gmail.com",
-            "valid": true
-          },
-          {
-            "by": "rajathalex@gmail.com",
-            "valid": true
-          },
-          {
-            "by": "rajathalex@gmail.com",
-            "valid": true
-          }
-        ]
+          "segment": 0,
+          "signer": "0xDA29BB71669f46F2a779b4b62f03644A84eE3479"
+        }
       },
       "AllocationManager_Proxy": {
         "address": "0xFdD5749e11977D60850E06bF5B13221Ad95eb6B4",
@@ -650,6 +634,6 @@
       }
     ]
   },
-  "latestDeployedCommit": "3ce620530b1314a88292007b547accf828663e7a",
+  "latestDeployedCommit": "336cab36cfbfbe62eab5e63942581921f4a079d3",
   "chainId": 17000
 }
