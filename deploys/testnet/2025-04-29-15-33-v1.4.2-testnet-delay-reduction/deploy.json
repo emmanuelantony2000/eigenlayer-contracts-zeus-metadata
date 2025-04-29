@@ -19,10 +19,29 @@
       "id": 2
     }
   ],
-  "metadata": [],
+  "metadata": [
+    {
+      "type": "eoa",
+      "signer": "0xDA29BB71669f46F2a779b4b62f03644A84eE3479",
+      "transactions": [],
+      "deployments": [
+        {
+          "address": "0xA24898174701fF888B127e65c827E441F4Bc968A",
+          "contract": "AllocationManager_Impl",
+          "singleton": true
+        },
+        {
+          "address": "0x5c798965208a6FddEc2eA8505c544065645c4106",
+          "contract": "DelegationManager_Impl",
+          "singleton": true
+        }
+      ],
+      "confirmed": false
+    }
+  ],
   "upgrade": "v1.4.2-testnet-delay-reduction",
   "upgradePath": "script/releases/v1.4.2-testnet-delay-reduction",
-  "phase": "eoa_start",
+  "phase": "eoa_wait_confirm",
   "chainId": 17000,
   "startTime": "Tue Apr 29 2025 15:33:03 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1745955183.319
