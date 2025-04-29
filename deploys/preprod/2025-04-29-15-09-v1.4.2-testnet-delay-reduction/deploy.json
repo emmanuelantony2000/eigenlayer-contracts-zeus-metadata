@@ -1,0 +1,29 @@
+{
+  "name": "2025-04-29-15-09-v1.4.2-testnet-delay-reduction",
+  "env": "preprod",
+  "segmentId": 0,
+  "segments": [
+    {
+      "type": "eoa",
+      "filename": "1-deployContracts.s.sol",
+      "id": 0
+    },
+    {
+      "type": "multisig",
+      "filename": "2-queueUpgrade.s.sol",
+      "id": 1
+    },
+    {
+      "type": "multisig",
+      "filename": "3-executeUpgrade.s.sol",
+      "id": 2
+    }
+  ],
+  "metadata": [],
+  "upgrade": "v1.4.2-testnet-delay-reduction",
+  "upgradePath": "script/releases/v1.4.2-testnet-delay-reduction",
+  "phase": "",
+  "chainId": 17000,
+  "startTime": "Tue Apr 29 2025 15:09:30 GMT-0400 (Eastern Daylight Time)",
+  "startTimestamp": 1745953770.89
+}
