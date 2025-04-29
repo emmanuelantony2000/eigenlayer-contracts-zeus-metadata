@@ -52,12 +52,12 @@
       "signerType": "gnosis.api.eoa",
       "gnosisTransactionHash": "0x71c80b4c4f8a7dd8dbbb86446dbd61461bc4c075d898e864233a44fd3950776e",
       "multisig": "0xd140eE77d9e62901d8cEFf199d3ef4Dd1F4Eaff4",
-      "confirmed": false
+      "confirmed": true
     }
   ],
   "upgrade": "v1.4.2-testnet-delay-reduction",
   "upgradePath": "script/releases/v1.4.2-testnet-delay-reduction",
-  "phase": "multisig_wait_confirm",
+  "phase": "complete",
   "chainId": 17000,
   "startTime": "Tue Apr 29 2025 15:33:03 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1745955183.319
