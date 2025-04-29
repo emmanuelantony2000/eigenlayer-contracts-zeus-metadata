@@ -45,11 +45,19 @@
       "gnosisTransactionHash": "0xd8ce26c7492d0e5b692af4b765db0aa4c420dd427ccc526b6b09dc3dce25635c",
       "multisig": "0x6d609cD2812bDA02a75dcABa7DaafE4B20Ff5608",
       "confirmed": true
+    },
+    {
+      "type": "multisig",
+      "signer": "0xDA29BB71669f46F2a779b4b62f03644A84eE3479",
+      "signerType": "gnosis.api.eoa",
+      "gnosisTransactionHash": "0x0b04d6fd699caadbfa3517260ad08bc59351a0c0964b7cd8ab269ca8f7287f3c",
+      "multisig": "0x314A6B61B5CBFA79dc7b2c0416e039822E886b54",
+      "confirmed": false
     }
   ],
   "upgrade": "v1.4.2-testnet-delay-reduction",
   "upgradePath": "script/releases/v1.4.2-testnet-delay-reduction",
-  "phase": "multisig_start",
+  "phase": "multisig_wait_signers",
   "chainId": 17000,
   "startTime": "Tue Apr 29 2025 15:10:27 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1745953827.685
