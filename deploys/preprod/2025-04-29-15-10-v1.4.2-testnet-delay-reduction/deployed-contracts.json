@@ -1,0 +1,28 @@
+{
+  "contracts": [
+    {
+      "address": "0x244B90D5A8fBDcd6DbEA6ab80249787FF855c334",
+      "contract": "AllocationManager_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0x96e8f5a0585fe8d3d001b40aaf057fd9c480312858ae6e469107c25b2d0432b7",
+      "lastUpdatedIn": {
+        "name": "2025-04-29-15-10-v1.4.2-testnet-delay-reduction",
+        "phase": "eoa_wait_confirm",
+        "segment": 0,
+        "signer": "0xDA29BB71669f46F2a779b4b62f03644A84eE3479"
+      }
+    },
+    {
+      "address": "0xD291607A288c5211E88008949974FC543FE48896",
+      "contract": "DelegationManager_Impl",
+      "singleton": true,
+      "deployedBytecodeHash": "0xabe9f2968cfa8e52d67e59c07f6002b91c34ad7201446d176e90a7ef7ba42f60",
+      "lastUpdatedIn": {
+        "name": "2025-04-29-15-10-v1.4.2-testnet-delay-reduction",
+        "phase": "eoa_wait_confirm",
+        "segment": 0,
+        "signer": "0xDA29BB71669f46F2a779b4b62f03644A84eE3479"
+      }
+    }
+  ]
+}
