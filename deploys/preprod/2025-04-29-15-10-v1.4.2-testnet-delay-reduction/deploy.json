@@ -1,7 +1,7 @@
 {
   "name": "2025-04-29-15-10-v1.4.2-testnet-delay-reduction",
   "env": "preprod",
-  "segmentId": 1,
+  "segmentId": 2,
   "segments": [
     {
       "type": "eoa",
@@ -44,12 +44,12 @@
       "signerType": "gnosis.api.eoa",
       "gnosisTransactionHash": "0xd8ce26c7492d0e5b692af4b765db0aa4c420dd427ccc526b6b09dc3dce25635c",
       "multisig": "0x6d609cD2812bDA02a75dcABa7DaafE4B20Ff5608",
-      "confirmed": false
+      "confirmed": true
     }
   ],
   "upgrade": "v1.4.2-testnet-delay-reduction",
   "upgradePath": "script/releases/v1.4.2-testnet-delay-reduction",
-  "phase": "multisig_execute",
+  "phase": "multisig_start",
   "chainId": 17000,
   "startTime": "Tue Apr 29 2025 15:10:27 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1745953827.685
