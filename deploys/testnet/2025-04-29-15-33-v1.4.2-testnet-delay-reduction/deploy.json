@@ -57,7 +57,7 @@
   ],
   "upgrade": "v1.4.2-testnet-delay-reduction",
   "upgradePath": "script/releases/v1.4.2-testnet-delay-reduction",
-  "phase": "multisig_execute",
+  "phase": "multisig_wait_confirm",
   "chainId": 17000,
   "startTime": "Tue Apr 29 2025 15:33:03 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1745955183.319
