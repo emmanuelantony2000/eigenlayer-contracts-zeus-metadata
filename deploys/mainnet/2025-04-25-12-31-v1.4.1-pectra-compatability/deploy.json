@@ -99,7 +99,7 @@
   ],
   "upgrade": "v1.4.1-pectra-compatability",
   "upgradePath": "script/releases/v1.4.1-pectra-compatability",
-  "phase": "multisig_wait_signers",
+  "phase": "multisig_execute",
   "chainId": 1,
   "startTime": "Fri Apr 25 2025 12:31:47 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1745598707.948
