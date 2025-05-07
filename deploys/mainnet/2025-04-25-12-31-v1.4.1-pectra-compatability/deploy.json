@@ -1,7 +1,7 @@
 {
   "name": "2025-04-25-12-31-v1.4.1-pectra-compatability",
   "env": "mainnet",
-  "segmentId": 3,
+  "segmentId": 4,
   "segments": [
     {
       "type": "eoa",
@@ -94,12 +94,12 @@
       "signerType": "gnosis.api.web",
       "gnosisTransactionHash": "0x821c0f4214a7d8aed8ecad4adbc5bdfa5c1ea56bcf5e9eaede43f6f3f1b5c862",
       "multisig": "0x5050389572f2d220ad927CcbeA0D406831012390",
-      "confirmed": false
+      "confirmed": true
     }
   ],
   "upgrade": "v1.4.1-pectra-compatability",
   "upgradePath": "script/releases/v1.4.1-pectra-compatability",
-  "phase": "multisig_wait_confirm",
+  "phase": "multisig_start",
   "chainId": 1,
   "startTime": "Fri Apr 25 2025 12:31:47 GMT-0400 (Eastern Daylight Time)",
   "startTimestamp": 1745598707.948
