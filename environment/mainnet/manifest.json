@@ -1,6 +1,6 @@
 {
   "id": "mainnet",
-  "deployedVersion": "1.3.0",
+  "deployedVersion": "1.4.1",
   "contracts": {
     "static": {
       "PauserRegistry_Impl": {
@@ -48,15 +48,15 @@
         }
       },
       "EigenPod_Impl": {
-        "address": "0xB132a8DaD03A507f1b9D2F467A4936Df2161C63e",
+        "address": "0xe2E2dB234b0FFB9AFe41e52dB7d3c2B8585646c3",
         "contract": "EigenPod_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0x53e3668dae09da7552804eb577ccae9e4d87905ac2347353aa71c51884998ace",
+        "deployedBytecodeHash": "0x89b66524ce4ce37f73e2ab740f09f8fc8b957bd793d3ef3784aee524b32f3509",
         "lastUpdatedIn": {
-          "name": "2025-04-07-11-54-v1.3.0-slashing",
+          "name": "2025-04-25-12-31-v1.4.1-pectra-compatability",
           "phase": "eoa_wait_confirm",
           "segment": 0,
-          "signer": "0x4DA954dd93601A29B09bEe1EB0651492b7c08Cf4"
+          "signer": "0xF2D7291715D222e5C0A1a433BAC7B609A9D32907"
         }
       },
       "EigenPodManager_Proxy": {
@@ -70,15 +70,15 @@
         }
       },
       "EigenPodManager_Impl": {
-        "address": "0x9801266CbBbe1E94bB9dAf7de8D61528f49CeC77",
+        "address": "0x8dB49233e3b7691D68745A31e4A0Cd9Cf924B7E9",
         "contract": "EigenPodManager_Impl",
         "singleton": true,
-        "deployedBytecodeHash": "0xf1f2565f7ed5e92464c27c9aca58e8f04239785c8e90aefc054d666761baa203",
+        "deployedBytecodeHash": "0xfaa0a0600ef132f0616ab3b31d4d529e03543e6287e2fdccc8e863bcdb10ffa3",
         "lastUpdatedIn": {
-          "name": "2025-04-07-11-54-v1.3.0-slashing",
+          "name": "2025-04-25-12-31-v1.4.1-pectra-compatability",
           "phase": "eoa_wait_confirm",
           "segment": 0,
-          "signer": "0x4DA954dd93601A29B09bEe1EB0651492b7c08Cf4"
+          "signer": "0xF2D7291715D222e5C0A1a433BAC7B609A9D32907"
         }
       },
       "DelegationManager_Proxy": {
@@ -449,6 +449,6 @@
       }
     ]
   },
-  "latestDeployedCommit": "9a9707b28fa6acbd512d8983ad7a71d7ecb222ad",
+  "latestDeployedCommit": "d9a793e7d3741975fa465b0db6dfa5c90aea4edc",
   "chainId": 1
 }
