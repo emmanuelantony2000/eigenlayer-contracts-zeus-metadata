@@ -1,0 +1,60 @@
+{
+  "safe": "0xBE1685C81aA44FF9FB319dD389addd9374383e90",
+  "to": "0x91E677b07F7AF907ec9a428aafA9fc14a0d3A338",
+  "value": "0",
+  "data": "0x5a26fbf400000000000000000000000000000000000000000000000000000000681b3057",
+  "operation": 0,
+  "gasToken": "0x0000000000000000000000000000000000000000",
+  "safeTxGas": 0,
+  "baseGas": 0,
+  "gasPrice": "0",
+  "refundReceiver": "0x0000000000000000000000000000000000000000",
+  "nonce": 71,
+  "executionDate": "2025-05-07T21:22:23Z",
+  "submissionDate": "2025-05-07T21:04:28.065217Z",
+  "modified": "2025-05-07T21:22:23Z",
+  "blockNumber": 22434362,
+  "transactionHash": "0x69c2cf1ac19e1ea12c4d3090456b56ff0570f65793f6d4c1da16d99c98864253",
+  "safeTxHash": "0xd01d8985a5575de98735ab83440bbdbc6115fa972c40de34f2a289925e508ea3",
+  "proposer": "0xdC541e2B4adD96888b2C79006F49A9748A4f1bDF",
+  "proposedByDelegate": null,
+  "executor": "0xE31ad7cFD94bD74C40b53160aA0E8A0b6D340830",
+  "isExecuted": true,
+  "isSuccessful": true,
+  "ethGasPrice": "455401501",
+  "maxFeePerGas": "455401501",
+  "maxPriorityFeePerGas": "28065716",
+  "gasUsed": 76511,
+  "fee": "34843224243011",
+  "origin": "{}",
+  "dataDecoded": {
+    "method": "fallback",
+    "parameters": []
+  },
+  "confirmationsRequired": 3,
+  "confirmations": [
+    {
+      "owner": "0xdC541e2B4adD96888b2C79006F49A9748A4f1bDF",
+      "submissionDate": "2025-05-07T21:04:28.112855Z",
+      "transactionHash": null,
+      "signature": "0x4a062bb7e17a37834d773cc9ff17a59d82f60074e8a7a8494765db997ba47dee35fef2d2df508992f9293889ee73fcff161bf3f9b8ab22ed917a80fdd84fb4161c",
+      "signatureType": "EOA"
+    },
+    {
+      "owner": "0xb7Ae34BB33da55f12797e793E01e63a17B11d108",
+      "submissionDate": "2025-05-07T21:10:00.602855Z",
+      "transactionHash": null,
+      "signature": "0x827576761d114ccbfbab464d02bc452a7c4ed40ef50be7f943eea9242c6e73a227edf2df16e0f70bbfed26ea9c1c17af6fc57a1ec74aa97cec588b9b68598d3e1c",
+      "signatureType": "EOA"
+    },
+    {
+      "owner": "0xE31ad7cFD94bD74C40b53160aA0E8A0b6D340830",
+      "submissionDate": "2025-05-07T21:22:23Z",
+      "transactionHash": null,
+      "signature": "0x000000000000000000000000e31ad7cfd94bd74c40b53160aa0e8a0b6d340830000000000000000000000000000000000000000000000000000000000000000001",
+      "signatureType": "APPROVED_HASH"
+    }
+  ],
+  "trusted": true,
+  "signatures": "0x827576761d114ccbfbab464d02bc452a7c4ed40ef50be7f943eea9242c6e73a227edf2df16e0f70bbfed26ea9c1c17af6fc57a1ec74aa97cec588b9b68598d3e1c4a062bb7e17a37834d773cc9ff17a59d82f60074e8a7a8494765db997ba47dee35fef2d2df508992f9293889ee73fcff161bf3f9b8ab22ed917a80fdd84fb4161c000000000000000000000000e31ad7cfd94bd74c40b53160aa0e8a0b6d340830000000000000000000000000000000000000000000000000000000000000000001"
+}
