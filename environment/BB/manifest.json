@@ -1,0 +1,10 @@
+{
+  "id": "BB",
+  "deployedVersion": "0.0.0",
+  "contracts": {
+    "static": {},
+    "instances": []
+  },
+  "latestDeployedCommit": "",
+  "chainId": 26154
+}
